@@ -1,0 +1,10 @@
+Name: libpng 1.5.6 for Marmalade SDK
+Description: Version 1.5.6 of LibPNG for marmalade SDK developers
+Developer: Mat Hopwood
+Contact: http://www.drmop.com
+
+Usage:
+
+1. Copy the libpng folder to the extensions folder in the Marmalade SDK
+2. Add libpng.mkf to your subprojects area of your project MKB file
+3. Add png.h to your source file
